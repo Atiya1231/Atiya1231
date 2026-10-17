@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hey, it's Atiya - fueled by chai and ambition. ☕✨
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
    <img alt="Logo for ATIYA ALI" src="art/header-light.png">
