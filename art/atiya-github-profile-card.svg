@@ -2,48 +2,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#071e2b"/>
+      <stop offset="0%" stop-color="#062635"/>
       <stop offset="55%" stop-color="#0b1020"/>
       <stop offset="100%" stop-color="#241535"/>
     </linearGradient>
     <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#28d9ff"/>
-      <stop offset="100%" stop-color="#728aff"/>
+      <stop offset="100%" stop-color="#8b7cff"/>
     </linearGradient>
   </defs>
-
-  <rect x="3" y="3" width="1194" height="354" rx="28" fill="url(#bg)" stroke="#159ed0" stroke-width="2"/>
-  <rect x="25" y="25" width="1150" height="310" rx="25" fill="none" stroke="#176c9b" stroke-width="1.5"/>
-
-  <circle cx="130" cy="175" r="69" fill="#07131f" stroke="#13c9f5" stroke-width="4"/>
-  <image href="https://github.com/Atiya1231.png" x="75" y="120" width="110" height="110" preserveAspectRatio="xMidYMid slice"/>
-  <circle cx="130" cy="175" r="55" fill="none" stroke="#13c9f5" stroke-width="2"/>
-
-  <text x="225" y="105" fill="#72dcff" font-family="Arial, sans-serif" font-size="20" font-weight="bold" letter-spacing="3">@ATIYA1231</text>
-
-  <text x="225" y="172" fill="url(#title)" font-family="Arial, sans-serif" font-size="58" font-weight="bold">Atiya Ali ✨</text>
-
-  <text x="228" y="215" fill="#e0edff" font-family="Arial, sans-serif" font-size="21">Hey, it's Atiya — fueled by chai and ambition ☕</text>
-
-  <text x="228" y="258" fill="#72dcff" font-family="Arial, sans-serif" font-size="15" font-weight="bold" letter-spacing="2">MY SKILLS</text>
-
-  <g font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#55d7ff" text-anchor="middle">
-    <rect x="225" y="275" width="125" height="37" rx="18" fill="#141e30" stroke="#159ed0" stroke-width="1.5"/>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)" stroke="#159ed0" stroke-width="2"/>
+  <rect x="25" y="25" width="1150" height="310" rx="25" fill="none" stroke="#176c9b" stroke-width="2"/>
+  <circle cx="130" cy="175" r="68" fill="#07131f" stroke="#13c9f5" stroke-width="4"/>
+  <text x="130" y="190" fill="#28d9ff" font-family="Arial" font-size="42" text-anchor="middle">AA</text>
+  <text x="225" y="105" fill="#72dcff" font-family="Arial" font-size="20" font-weight="bold" letter-spacing="3">@ATIYA1231</text>
+  <text x="225" y="172" fill="url(#title)" font-family="Arial" font-size="58" font-weight="bold">Atiya Ali ✨</text>
+  <text x="228" y="215" fill="#e0edff" font-family="Arial" font-size="21">Hey, it's Atiya — fueled by chai and ambition!</text>
+  <text x="228" y="258" fill="#72dcff" font-family="Arial" font-size="15" font-weight="bold">MY SKILLS</text>
+  <g font-family="Arial" font-size="16" font-weight="bold" fill="#55d7ff" text-anchor="middle">
+    <rect x="225" y="275" width="125" height="37" rx="18" fill="#141e30" stroke="#159ed0"/>
     <text x="287" y="299">HTML</text>
-
-    <rect x="365" y="275" width="125" height="37" rx="18" fill="#141e30" stroke="#159ed0" stroke-width="1.5"/>
+    <rect x="365" y="275" width="125" height="37" rx="18" fill="#141e30" stroke="#159ed0"/>
     <text x="427" y="299">CSS</text>
-
-    <rect x="505" y="275" width="165" height="37" rx="18" fill="#141e30" stroke="#159ed0" stroke-width="1.5"/>
+    <rect x="505" y="275" width="165" height="37" rx="18" fill="#141e30" stroke="#159ed0"/>
     <text x="587" y="299">JavaScript</text>
-
-    <rect x="685" y="275" width="125" height="37" rx="18" fill="#141e30" stroke="#159ed0" stroke-width="1.5"/>
+    <rect x="685" y="275" width="125" height="37" rx="18" fill="#141e30" stroke="#159ed0"/>
     <text x="747" y="299">Java</text>
   </g>
-
   <circle cx="1050" cy="150" r="58" fill="#111a2d" stroke="#263858"/>
-  <text x="1050" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="42">☕</text>
-  <text x="1050" y="235" text-anchor="middle" fill="#72dcff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" letter-spacing="2">KEEP BUILDING</text>
-  <circle cx="1125" cy="75" r="5" fill="#18c8f3"/>
+  <text x="1050" y="165" text-anchor="middle" fill="#72dcff" font-family="Arial" font-size="38">☕</text>
+  <text x="1050" y="235" text-anchor="middle" fill="#72dcff" font-family="Arial" font-size="12" font-weight="bold">KEEP BUILDING</text>
 </svg>
-
