@@ -11,7 +11,7 @@ Hey, it's Atiya- Fueled by chai & ambition
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:061B2B,40:10243A,75:17213F,100:291A43&text=Krishnendu%20%F0%9F%94%A5&fontSize=42&fontColor=38C8FF&fontAlign=20&fontAlignY=48&desc=Either%20you%20win%20or%20you%20learn.%20%F0%9F%92%AF&descSize=15&descAlign=20&descAlignY=68&descColor=38C8FF" alt="Neon profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:061B2B,40:10243A,75:17213F,100:291A43&text=Atiya%20%F0%9F%94%A5&fontSize=42&fontColor=38C8FF&fontAlign=20&fontAlignY=48&desc=Either%20you%20win%20or%20you%20learn.%20%F0%9F%92%AF&descSize=15&descAlign=20&descAlignY=68&descColor=38C8FF" alt="Neon profile banner"/>
 
 </div>
 
