@@ -1,6 +1,14 @@
 ## Hi there 👋
 <!-- 🌌 ATIYA ALI - GITHUB PROFILE README -->
 
+<p align="center">
+  <img
+    src="art/atiya-github-profile-card.svg"
+    alt="Atiya Ali neon GitHub profile banner"
+    width="100%"
+  />
+</p>
+
 <table>
   <tr>
     <td width="180" align="center" valign="middle">
