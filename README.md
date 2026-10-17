@@ -27,6 +27,7 @@
 
 
 ## 🐍 My GitHub Contributions
+> 🐍 This snake animates my GitHub contribution history by eating my contributions!
 
 ![Contribution Snake](https://raw.githubusercontent.com/Atiya1231/Atiya1231/output/github-contribution-grid-snake.svg)
 
