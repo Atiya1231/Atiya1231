@@ -19,19 +19,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=Atiya1231&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Atiya1231&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Atiya1231&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 📈 GitHub Activity Graph
 
-<table align="center" width="100%" border="2" bordercolor="#00C7FF" cellpadding="8">
-  <tr>
-    <td bgcolor="#0D1117">
-      <img
-        src="https://ghchart.rshah.org/22d3ee/Atiya1231"
-        alt="GitHub Contributions"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Atiya1231&icon=0&color=0)](https://visitcount.itsvg.in)
