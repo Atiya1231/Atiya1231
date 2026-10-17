@@ -23,7 +23,7 @@ Building things that speak for themselves.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atiya__alii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atiya-ali-591a89325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atiyajas2812@gmail.com) 
 
 ---
-<table width="100%" border="2" bordercolor="#00C7FF" cellpadding="15" style="border: 2px solid #00C7FF;">
+<table width="100%" bgcolor="#00C7FF" cellpadding="2">
 <tr>
 <td bgcolor="#0D1117">
 
