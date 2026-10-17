@@ -1,4 +1,12 @@
-## Hi there 👋
+<h2 align="center">Hey, it's Atiya — fueled by chai and ambition ☕</h2>
+
+<p align="center">
+  <img
+    src="art/atiya-github-profile-card.png"
+    alt="Atiya Ali GitHub profile banner"
+    width="100%"
+  />
+</p>
 <!-- 🌌 ATIYA ALI - GITHUB PROFILE README -->
 
 <p align="center">
