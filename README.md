@@ -1,9 +1,26 @@
 ## Hi there 👋
-Hey, it's Atiya - fueled by chai and ambition. ☕✨
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for ATIYA ALI" src="art/header-light.png">
-</picture>
+<!-- 🌌 ATIYA ALI - GITHUB PROFILE README -->
+
+<table>
+  <tr>
+    <td width="180" align="center" valign="middle">
+      <img
+        src="https://github.com/Atiya1231.png"
+        width="150"
+        alt="Atiya Ali"
+      />
+    </td>
+    <td valign="middle">
+      <h1>Hey, I'm Atiya Ali ✨</h1>
+      <p><strong>@Atiya1231</strong></p>
+      <p>Hey, it's Atiya — fueled by chai and ambition ☕</p>
+      <p>
+        💻 <strong>Skills:</strong><br>
+        HTML • CSS • JavaScript • Java
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atiya__alii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atiya-ali-591a89325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atiyajas2812@gmail.com) 
