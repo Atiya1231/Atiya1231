@@ -3,7 +3,7 @@
 
 # ATIYA ALI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=404%3A+sleep+not+found." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=404%3A+." alt="Typing SVG" />
 
 </div>
 
