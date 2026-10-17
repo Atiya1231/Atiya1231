@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="art/atiya-github-profile-card.png"
+    src="art/atiya-github-profile-card.svg"
     alt="Atiya Ali GitHub profile banner"
     width="100%"
   />
