@@ -21,7 +21,13 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Atiya1231&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 📈 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atiya1231&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=22d3ee&area=true&border_color=00c7ff" width="100%" alt="GitHub Activity Graph" />
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/22d3ee/Atiya1231"
+    alt="GitHub Contributions"
+    width="100%"
+  />
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Atiya1231&icon=0&color=0)](https://visitcount.itsvg.in)
